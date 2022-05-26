@@ -2,7 +2,6 @@
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas.
 - 💻 Atualmente estou focando em desenvolvimento front-end.
-- 💡 Curiosidade: Eu costumava ser estudante de Comunicação Social. Apesar de ter migrado para TI, meu amor por escrita e leitura prevalece!
 
 <div align="center">
   <a href="https://github.com/joanacabralmartins">
@@ -16,7 +15,6 @@
 </div>
   
 <br>
-<h2>Entre em contato comigo! 👇</h2>
 <div> 
   <a href = "mailto:joanacabralmartins@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joana-cabral-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
