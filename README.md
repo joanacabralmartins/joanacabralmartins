@@ -1,4 +1,4 @@
-<h1>Oi! Seja bem vindo(a)!</h1> 
+<h1>Oi, seja bem vindo(a)!</h1> 
 
 <div align="center">
   <a href="https://github.com/joanacabralmartins">
